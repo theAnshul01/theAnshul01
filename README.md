@@ -1,6 +1,6 @@
 👨‍💻 About Me
 
-Entry-level Software Engineer (SDE-1) interested in full-stack development, with hands-on experience across both frontend and backend. I enjoy turning real-world workflows into clean, scalable, and maintainable applications.
+A mechanical engineer passionate about technology. Seeking entry-level Software Engineer (SDE-1 or equivalent) interested in full-stack development, with hands-on experience across both frontend and backend. I enjoy turning real-world workflows into clean, scalable, and maintainable applications.
 
 🚀 What I Build
 
@@ -24,4 +24,4 @@ Handling validations, edge cases, and real-world constraints
 
 🎯 What I’m Looking For
 
-An SDE-1 / New Graduate Software Engineer role to work on real products, strengthen system design skills, and grow as a full-stack engineer.
+An SDE-1 / New Graduate Software Engineer (intern) role to work on real products, strengthen system design skills, and grow as a full-stack engineer.

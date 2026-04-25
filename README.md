@@ -1,5 +1,7 @@
+<h1 align="center">Hi, I'm Anshul Porwal 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anshul+Porwal;Software+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Software+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
@@ -112,11 +114,16 @@ https://github-gfi.vercel.app
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=theAnshul01&show_icons=true&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAnshul01&layout=compact&hide_border=true"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=theAnshul01&show_icons=true&hide_border=true&rank_icon=github"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAnshul01&layout=compact&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -132,7 +139,7 @@ https://github-gfi.vercel.app
 <img src="https://img.shields.io/badge/LinkedIn-Anshul%20Porwal-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:anshul.porwal.26@outlook.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=microsoft-outlook"/>
+<a href="mailto:anshulporwal2017@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=gmail"/>
 </a>
 </p>

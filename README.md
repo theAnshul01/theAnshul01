@@ -1,5 +1,3 @@
-<!-- Animated Intro -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anshul+Porwal;Software+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript" />
 </p>
@@ -8,13 +6,17 @@
   Building scalable web applications and continuously improving through coding and open-source.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theAnshul01&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 ---
 
 # 👨‍💻 About Me
 
 * 💻 **Software Engineer**
 * 🎓 Graduate from **SVNIT Surat**
-* 🏗 Building full-stack applications with **React, Node.js, TypeScript**
+* 🏗 Building full-stack applications using **React, Node.js, and TypeScript**
 * 📚 Practicing **Data Structures & Algorithms**
 * 🏆 **Vahani Scholar** | **Dakshana Scholar**
 * 🌱 Exploring **backend architecture and system design**
@@ -54,12 +56,12 @@ Full-stack placement management platform.
 
 **Features**
 
-* Role-based access for **Students, Recruiters, Officers, Admin**
-* **JWT authentication** with refresh tokens
-* **MongoDB aggregation pipelines** for analytics
+* Role-based access control for **Students, Recruiters, Officers, Admin**
+* Secure **JWT authentication with refresh tokens**
+* **MongoDB aggregation pipelines** for placement analytics
 * Frontend deployed on **Vercel**
 
-Tech:
+Tech
 `React` `Node.js` `Express` `MongoDB` `JWT` `TailwindCSS`
 
 Frontend Repo
@@ -80,7 +82,7 @@ Discover repositories with **good-first-issues** to start contributing.
 * Debounced search for optimized API usage
 * Typed service layer for GitHub API
 
-Tech:
+Tech
 `TypeScript` `React` `Vite` `TailwindCSS` `GitHub API` `Supabase`
 
 Repo
@@ -103,6 +105,8 @@ https://github-gfi.vercel.app
 </a>
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/anshul_2711?theme=light\&font=Inter)
+
 ---
 
 # 📊 GitHub Stats
@@ -114,18 +118,6 @@ https://github-gfi.vercel.app
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAnshul01&layout=compact&hide_border=true"/>
 </p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theAnshul01&hide_border=true"/>
-
----
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/theAnshul01/theAnshul01/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

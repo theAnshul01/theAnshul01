@@ -1,77 +1,146 @@
-# Hi, I'm Anshul Porwal 👋
+<!-- Animated Intro -->
 
-**Mechanical Engineer turned Full-Stack Developer** · Building clean, scalable web applications with React, Node.js & MongoDB.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anshul+Porwal;Software+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-personal--website-2563eb?style=flat&logo=google-chrome&logoColor=white)](https://personal-website-omega-six-98.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshul%20Porwal-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-porwal-1aa7a8230)
-[![Email](https://img.shields.io/badge/Email-anshul.porwal.26%40outlook.com-0078d4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:anshul.porwal.26@outlook.com)
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech in Mechanical Engineering @ **SVNIT Surat** — GPA 9.48/10
-- 🛠️ Currently building a full-stack **Placement Portal** (React + Node.js + MongoDB)
-- 🔍 Exploring **TypeScript**, **Docker**, and **open-source contribution**
-- 🎯 Seeking an **SDE-1 / New Grad Software Engineer** role
-- 🏆 Vahani Scholar & Dakshana Scholar
-
----
-
-## 🧰 Tech Stack
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat&logo=supabase&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🏫 [Placement Portal](https://github.com/theAnshul01/placement-portal-frontend) · [Live ↗](https://placement-portal-frontend-theta.vercel.app)
-> Full-stack college placement management system — React frontend + Node.js/Express/MongoDB backend
-
-- Role-based access control for **Student, Recruiter, Officer & Admin**
-- JWT authentication (access + refresh tokens), route guards on client and server
-- MongoDB aggregation pipelines for placement analytics and filtered job listings
-- Dockerised frontend, deployed to Vercel
-
-`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS` `Docker`
-
----
-
-### 🔍 [GitHub GFI Explorer](https://github.com/theAnshul01/github-gfi) · [Live ↗](https://github-gfi.vercel.app)
-> Discover GitHub repos with good-first-issues — built with TypeScript + React + Vite
-
-- Filter by language, topic, and good-first-issue labels
-- Custom hooks for debounced search and theme management
-- Typed service layer for GitHub REST API
-
-`TypeScript` `React` `Vite` `Tailwind CSS` `GitHub API` `Supabase`
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=theAnshul01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="160" alt="Anshul's GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAnshul01&layout=compact&hide_border=true&langs_count=6&hide=css" height="160" alt="Top Languages"/>
+<p align="center">
+  Building scalable web applications and continuously improving through coding and open-source.
 </p>
 
 ---
 
-## 📫 Let's Connect
+# 👨‍💻 About Me
 
-I'm open to SDE-1 roles, internships, and open-source collaboration. Reach me at **anshul.porwal.26@outlook.com** or connect on [LinkedIn](https://linkedin.com/in/anshul-porwal-1aa7a8230).
+* 💻 **Software Engineer**
+* 🎓 Graduate from **SVNIT Surat**
+* 🏗 Building full-stack applications with **React, Node.js, TypeScript**
+* 📚 Practicing **Data Structures & Algorithms**
+* 🏆 **Vahani Scholar** | **Dakshana Scholar**
+* 🌱 Exploring **backend architecture and system design**
+
+---
+
+# 🧰 Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+
+---
+
+# 📌 Featured Projects
+
+## 🏫 Placement Portal
+
+Full-stack placement management platform.
+
+**Features**
+
+* Role-based access for **Students, Recruiters, Officers, Admin**
+* **JWT authentication** with refresh tokens
+* **MongoDB aggregation pipelines** for analytics
+* Frontend deployed on **Vercel**
+
+Tech:
+`React` `Node.js` `Express` `MongoDB` `JWT` `TailwindCSS`
+
+Frontend Repo
+https://github.com/theAnshul01/placement-portal-frontend
+
+Live
+https://placement-portal-frontend-theta.vercel.app
+
+---
+
+## 🔍 GitHub GFI Explorer
+
+Discover repositories with **good-first-issues** to start contributing.
+
+**Features**
+
+* Filter repositories by **language and topics**
+* Debounced search for optimized API usage
+* Typed service layer for GitHub API
+
+Tech:
+`TypeScript` `React` `Vite` `TailwindCSS` `GitHub API` `Supabase`
+
+Repo
+https://github.com/theAnshul01/github-gfi
+
+Live
+https://github-gfi.vercel.app
+
+---
+
+# 🧠 DSA Profiles
+
+<p>
+<a href="https://leetcode.com/u/anshul_2711/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://takeuforward.org/profile/i_code_2711">
+<img src="https://img.shields.io/badge/TUF+-Profile-blue?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=theAnshul01&show_icons=true&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAnshul01&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theAnshul01&hide_border=true"/>
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/theAnshul01/theAnshul01/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+<a href="https://personal-website-omega-six-98.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/anshul-porwal-1aa7a8230">
+<img src="https://img.shields.io/badge/LinkedIn-Anshul%20Porwal-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:anshul.porwal.26@outlook.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=microsoft-outlook"/>
+</a>
+</p>
